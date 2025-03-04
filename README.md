@@ -19,11 +19,8 @@ Technologies
 
     Java
     Android Studio
-    //SQLite [or your storage choice]
 
 Notes
 
-This is an educational project. No contributions accepted.
-Thanks
 
 To our CS3443 instructor and classmates for support!
